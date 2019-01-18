@@ -12,9 +12,10 @@ It is possible to program module with your own firmware and connect your device 
 
 ## Amazon FreeRTOS + AWS IoT Core service
 
-1. 
+1. Connect module programmer to the evaluation board and be sure to check that your OS has installed necessary drivers.
+2. Follow the instructions from EPS32-DevKitC from aws docs ([Link](https://docs.aws.amazon.com/en_us/freertos/latest/userguide/getting_started_espressif.html)) to install Amazon FreeRTOS on the module and get started with AWS IoT Core.
+3. Include pinconfig.h file from this repository to your project and use the module peripherals to interact with application.
 
-
-```
-environment: ${self:custom.secrets.NODE_ENV}  
-```
+## ToDo
+* populate pin_config.h
+* add getting started procedure for Inovatink Device Cloud
