@@ -99,8 +99,6 @@ You have now learned how to run a sample application that collects sensor data a
 [Remote monitoring and notifications with Logic Apps]: https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-monitoring-notifications-with-azure-logic-apps
 [Dev-environment-setup]: https://docs.espressif.com/projects/esp-idf/en/latest/get-started/
 [azure-esp-example]: https://github.com/espressif/esp-azure
-[lnk-setup-iot-hub]: ../../setup_iothub.md
-[lnk-manage-iot-hub]: ../../manage_iot_hub.md
 [lnk-wib]: http://inovatink.com/statics/pdf/v1.2/Product_Brief_wib_v1.2_EN.pdf
 [lnk-wib2g]: http://inovatink.com/statics/pdf/v1.2/Product_Brief_wib2g_v1.2_EN.pdf
 [lnk-wibnb]: http://inovatink.com/statics/pdf/v1.2/Product_Brief_wibnb_v1.2_EN.pdf
