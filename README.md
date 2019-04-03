@@ -24,5 +24,5 @@ It is possible to program module with your own firmware and connect your device 
 
 
 ## ToDo
-* populate pin_config.h
+* ~~populate pin_config.h~~
 * add getting started procedure for Inovatink Device Cloud
