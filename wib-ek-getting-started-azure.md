@@ -103,3 +103,4 @@ You have now learned how to run a sample application that collects sensor data a
 [lnk-wib2g]: http://inovatink.com/statics/pdf/v1.2/Product_Brief_wib2g_v1.2_EN.pdf
 [lnk-wibnb]: http://inovatink.com/statics/pdf/v1.2/Product_Brief_wibnb_v1.2_EN.pdf
 [lnk-ino-getting-started]: https://github.com/inovatink/wib-ek-getting-started
+[lnk-setup-iot-hub]: https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-create-through-portal
